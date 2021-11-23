@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# v15
+*.db
+*.opendb
+
+# project
+*.filters
+*.user
