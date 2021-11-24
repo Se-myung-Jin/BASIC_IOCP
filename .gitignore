@@ -35,6 +35,7 @@
 *.db
 *.opendb
 *.suo
+*.ipch
 
 # project
 *.filters
