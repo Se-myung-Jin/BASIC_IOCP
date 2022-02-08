@@ -36,6 +36,17 @@
 *.suo
 *.db
 *.opendb
+# v15
+*.db
+*.opendb
+*.suo
+*.ipch
+
+# project
+*.filters
+*.user
+
+# Debug
 *.lastbuildstate
 *.tlog
 *.log
