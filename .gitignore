@@ -41,6 +41,8 @@
 *.opendb
 *.suo
 *.ipch
+*.db-shm
+*.db-wal
 
 # project
 *.filters
